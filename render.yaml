@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki_suou-bot
+    name: Meki_suou-bot
     env: docker
     region: Frankfurt
     plan: free
